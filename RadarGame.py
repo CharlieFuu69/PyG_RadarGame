@@ -4,10 +4,6 @@ Desarrolladores:
 > Carlos Cruces (GitHub: CharlieFuu69).
 > Diego Castillo G.
 > Geovanni Hernandez.
------------------------------------------------------------------------------------------------------------
-
-GITHUB : El juego está disponible (incluyendo su código fuente) en GitHub.
->>> URL del repositorio :
 
 -----------------------------------------------------------------------------------------------------------
 ### Controles ###
