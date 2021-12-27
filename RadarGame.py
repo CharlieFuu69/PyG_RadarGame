@@ -269,9 +269,9 @@ class RadarILS(pygame.sprite.Sprite):
         pantalla.blit(self.image, self.rect)
         pantalla.blit(self.ils_text, self.ils_rect)
 
-        ## Si la distancia de la aeronave con la pista es menor a 5 km, se mostrará la distancia
-        ## en el vector ILS.
-        if aircraft_rwy_approach <= 4.0:
+        ## Si la distancia de la aeronave con la pista es igual o menor a 2.5 km, se mostrará la alerta
+        ## de que la pista está cerca.
+        if aircraft_rwy_approach <= 2.5:
             pantalla.blit(self.ils_distance, self.ils_dist_rect)
 
         self.landing_accuracy = self.rect.x - 638
