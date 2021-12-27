@@ -69,3 +69,9 @@ La interfaz mostrará algunos términos comprendidos en el mundo de la aeronáut
 * Carlos Cruces (GitHub: CharlieFuu69).
 * Diego Castillo G.
 * Geovanni Hernandez.
+
+---
+## Créditos de Assets (Solo disponible en el paquete de pre-lanzamiento):
+
+* La banda sonora y los audios SFX/VOX provienen del juego (actualmente fuera de operaciones) llamado _**"War Wings"**_.
+* Los diseños de UI fueron creados por los desarrolladores de RadarGame en Photoshop.
