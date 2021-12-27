@@ -8,7 +8,7 @@
 # PyG_RadarGame
 Este proyecto está montado en Python, y utiliza al módulo _**"PyGame"**_ para dibujar los gráficos.
 
-_**Versión actual:** v0.5.2a (Alpha)_
+_**Versión actual:** v0.5.2a (Alpha) [¡Descargar presionando aquí!](https://github.com/CharlieFuu69/PyG_RadarGame/releases/tag/v0.5.1a)_
 
 ---
 ## Controles y arranque en terminal:
