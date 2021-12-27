@@ -11,7 +11,7 @@ Este proyecto está montado en Python, y utiliza al módulo _**"PyGame"**_ para 
 _**Versión actual:** v0.5.2a (Alpha) [¡Descargar presionando aquí!](https://github.com/CharlieFuu69/PyG_RadarGame/releases/tag/v0.5.1a)_
 
 ---
-## Controles y arranque en terminal:
+## Controles:
 * **K_UP:** Aceleración de la aeronave.
 * **K_LEFT / K_RIGHT:** Alabeo de la aeronave en perspectiva horizontal.
 
